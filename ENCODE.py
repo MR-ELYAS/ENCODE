@@ -33,8 +33,8 @@ def Run():
             os.system('xdg-open https://www.facebook.com/EKINGCMD')
 
             print(50*"-")
-
             import ENCODE
+
         elif bit == '32bit':
 
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
