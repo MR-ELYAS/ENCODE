@@ -8,7 +8,7 @@ def xoss(z):
 
         sys.stdout.flush()
 
-        time.sleep(0.02)
+        time.sleep(0.06)
 
 xoss('\n\x1b[1;37m[●] Checking Update........✔️✔️');time.sleep(0.5)
 
@@ -24,34 +24,40 @@ def Run():
 
         if bit == '64bit':
 
-            xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
+            xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
 
-            xoss("\x1b[1;92m[●] Your Device 64 BIT 💥");time.sleep(1)
+            xoss('\x1b[1;94m[●] Join My Group First 🎈')
 
-            xoss('\x1b[1;94m[●] Follow My Facebook First \033[1;97m🎈')
+            os.system#('xdg-open https://facebook.com/groups/1431748223768752/')
 
-            os.system('xdg-open https://www.facebook.com/EKINGCMD')
+            from HYPER import refat
 
-            print(50*"-")
-            import ENCODE
+            refat()
 
         elif bit == '32bit':
 
-            xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
+            xoss("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
 
-            xoss("\x1b[1;92m[●] Your Device 32 BIT 💥");time.sleep(1)
+            xoss('\x1b[1;94m[●] Follow My Github First 🎈')
 
-            xoss('\x1b[1;94m[●] Follow My Facebook First \033[1;97m🎈')
+            os.system('xdg-open https://github.com/zeasahil107')
 
-            os.system('xdg-open https://www.facebook.com/EKINGCMD')
+            from HYPER import refat
 
-            print(50*"-")
-
-            import ENCODE
+            refat()
 
         else:
 
             exit('\033[1;31m[●] Connection & Network Error 🤕')
 
 Run()
+
+
+d ENCODE
+
+        
+
+            
+
+
 
