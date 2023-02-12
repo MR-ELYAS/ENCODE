@@ -28,9 +28,9 @@ def Run():
 
             xoss('\x1b[1;94m[●] Join My Group First 🎈')
 
-            os.system#('xdg-open https://facebook.com/groups/1431748223768752/')
+            os.system('xdg-open https://facebook.com/groups/1431748223768752/')
 
-            from ENCODER import refat
+            from HYPER import ENCODE
 
             refat()
 
