@@ -30,7 +30,7 @@ def Run():
 
             os.system('xdg-open https://facebook.com/groups/1431748223768752/')
 
-            from HYPER import ENCODE
+            from ENCODE import refat
 
             refat()
 
